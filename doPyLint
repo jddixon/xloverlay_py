@@ -1,0 +1,3 @@
+pylint setup.py xloverlay                                               \
+    test*.py
+
