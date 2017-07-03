@@ -6,7 +6,7 @@
 import re
 from distutils.core import setup
 __version__ = re.search(r"__version__\s*=\s*'(.*)'",
-                        open('xloverlay/__init__.py').read()).group(1)
+                        open('src/xloverlay/__init__.py').read()).group(1)
 
 # see http://docs.python.org/distutils/setupscript.html
 
@@ -19,7 +19,7 @@ setup(name='xloverlay_py',
       # list it here, without the .py extension but SQuoted
       py_modules=[],
       #
-      packages=['xloverlay', ],
+      packages=['src/xloverlay', ],
       #
       # following could be in scripts/ subdir; SQuote
       scripts=[],

@@ -2,11 +2,13 @@
 project:xloverlay_py
 package:xloverlay
 mainlang:py
-version:0.0.1
-versionDate:2017-02-24
+version:0.0.2
+versionDate:2017-05-31
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
+dir:std:src
+dir:std:tests
 dir:std:.dvcz
 dir:pkg:xloverlay
 dir:clr:build
@@ -39,4 +41,3 @@ bash:std:doPyLint
 bash:std:checkCoverage
 bash:std:bkp2u
 py:std:setup.py
-py:test:test_basics.py
