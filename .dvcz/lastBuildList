@@ -7,71 +7,43 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xloverlay_py v0.0.2
-2017-05-31 18:15:01
+xloverlay_py v0.0.3
+2017-07-03 19:43:51
 # BEGIN CONTENT #
 xloverlay_py
  .dvcz
-  builds 5157f09bbf45fdfe8a759e6a026ae8764c821014
+  builds e459154bfdb7b454813d5d796a6de7a51f7ad517
   copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList f1221a8094f30548cde1dff25cc1d81f95402f9b
+  lastBuildList c9f66d99d246175c93e37abb0df51b604960a8e3
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg 3e10112837defd29cdbe8edb2c17d02f7cd17a17
+  projCfg a6303b4c934bc9e03b0cee0472df45a6ff823581
   projCfg.local d714bae5cbe74faf76f6486d06fb713839ab67d8
-  version 2ad1e8a6e529a2b5425bbc01f5d66cbc04379e20
- .gitignore 5185a3cb0539828e50edfc25d60c80ae291197fa
- CHANGES d9d2229003652fc22259138e42ee3eb3d97681a1
- LICENSE-MIT.md 22d1a7acfe925d189280793d86aa9b1dc542daab
+  version 73360f35db9690beafef9788c87d2c2573835bb0
+ .gitignore 42ddd5953f4cb4a6c49a0f3710cc9247411c2402
+ .gitignore.local e5ddc74d7265c3d7a43e1b8f9003877f0d4b6b90
+ CHANGES 7d77e428820e966c9406b2f6b589f98937f29834
+ LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
+ MANIFEST.in ab66c4ba9f7b7352eb828e32839a387bf990125b
  README.md 1d19c6a4b9e5de9546fdc0b0bca2b840a21d29df
  TODO 9b16875bbd1ccd1a13f395258ac038c1f1ed890f
  bkp2U 7bbe9198fba10d4e842b9b28ff9e9173a6bcdee6
- checkCoverage c8e915548356420aaff0bcbaddffebf24165ae73
- countem 1a81ca30cf2a54e824858ffbbf368ddea467224f
- doPyLint 898d87933a850bc8bfbf61d9e837e1ca4630e8eb
+ checkCoverage 85efbde38788f3df64a0949122ffed62ba3ff302
+ countem f39af03590e49afc840f09c20d9b8991353eec90
+ doPyLint ef38ec35ab858630bb875678e5e247acb055bc1d
  ghpDoc
   index.md 2df01d11ebee73d3640e788a51e78c32eade0669
  installit bf085d6a2a53e5d1af6938fd422712c59ff3030e
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py 1e66ff0d798fd6ef94ce23c2a0a78d821d6658ae
- styleit 26ed78c5f76e1b57e6417b3fa3cfd2e1df86d94d
- test.all 64033111aab393ac82c26691622fdb7fd6180b1b
- test_basics.py cb496640a03fa9cb3264479aca26fc672eae71d2
- xloverlay
-  CallBack.java 67f4bc293c1870d84c31a995224d5646a9e445a2
-  DataKeyed.java f1145a4b306bca320540b0a3f83da70735b26ba4
-  DataKeyedReader.java e8e241208bf72b3d132429a76347e8d572b2af69
-  DataKeyedWriter.java 548ecff5f7758bec962495b5927145809d390fdf
-  DelCallBack.java 09c3bff7647dbb205be831629abe2845ab2779b1
-  GetCallBack.java 7c982ddfd904ffbc069f6fc6af4947ee1c4ee5fe
-  NameKeyed.java 906b9d22dab6e1cfa4f30b0d80a68c2717b7a494
-  NameKeyedReader.java 3208fea2b934d53f811685bf8ce28c845567546e
-  NameKeyedWriter.java 03e8c37b9ff1d3350ac68def62625ee93b6d5295
-  PutCallBack.java 9b483d95dbd4a2ab3f35af192d73d2d8a75011c6
-  TestOverlay.java 2d67c158d2763252947f608f973302d460dd33de
-  __init__.py f62216a4d35985d9e6853180afe75d5053c0ebff
-  datakeyed
-   AbstractDisk.java 17a0eae0923d0771caf3e346b65f63ed5281d21d
-   AbstractDiskTest.java 3a99688f3715da1a3b2756943a044f969df3f462
-   DiskCache.java 245f6cbdb99ad827a21cefe0497a89dfb34b85d6
-   DiskIOJob.java 2d04695b5b585bb85a00ebfd88360a2414dd1f34
-   DiskIOJobThread.java ac1ca95461f0415d232d4d2e469ca0d89ad0c1fb
-   DiskIOThreadPool.java daaf885d8faceb277d7807c22a4cc393013555ff
-   DiskReadJob.java 0627f54556795fde66b07e9f6f2d8b43cd9b292c
-   DiskWriteJob.java ed519915832e2f1d4f87887f1009cd26fef6c8ca
-   FlatDisk.java bbbd6f90f6ba980129c5d0f2c12ed6e28bf5f109
-   IDiskCache.java a8ee517d8d4cdd671322024c017a7038788e8cc3
-   IMemCache.java 2877e964e08e91dd971021041aba085dcec49361
-   KeyQueue.java d33b660f834dbcfd0ef1cf7f5d46fb4fd9499394
-   KeyQueueTable.java 0f4bb258cd5f5973dcd553e0f40ad61849901dcf
-   MemCache.java eacdd587cbbbcf8f84384d2db25301d625f05b4a
-   TestDiskCache.java 3450ec755c4345e563b467a7170330fb1495f670
-   TestFlatDisk.java 2904a8515f9f1b95287e53ff8adc44a26b2f2443
-   TestKeyQueue.java 518777df0aa269691d6e06b956f2adac0125481d
-   TestKeyQueueTable.java e062cdd181b4a7644c5b08d90c86b7eec2b629e7
-   TestMemCache.java 17dd12f938756f22c79a6a49ecb3d0c76f5bfcac
-  namekeyed
-   DiskByName.java 2ad5122afc6317bc2c0bbeb7e8487c7ac3c21db9
-   TestDiskByName.java 312259a87f9ac6f2d66f4ea0c97cb2c00e39f400
+ setup.py 8eb223bdb940811653609ded5e9550e930419b4b
+ src
+  xloverlay
+   __init__.py d2624665d104574de9cb8dda2e8d36469bdd2526
+   datakeyed
+   namekeyed
+ styleit 77ee3d4981e9bc6c964a76ff370b26a042c17a8f
+ test.all 16b2121c87b7da169aa0e2620fbd1a30ad0ab528
+ tests
+  test_basics.py cb496640a03fa9cb3264479aca26fc672eae71d2
 # END CONTENT #
 
-RAwiEJuuBeY3w6+G++Nrp8i/cACZiu59iU6E0zt2UrP6e9EGb5+u1QRkww3uLmlr2zlQaSIptww2TmgQFl+z4pabmc7iLo3/YcHIpl77Q9enESAcb+nN+hwCV9e09Gj9hz67CKf/dOPjdCwqoc3USE7ojsXrTj7SKzr8JUYBlvdfZH08jwglKwP7Y9VMWAeqctBgUZeO87yihXkW7KNsNg1FYG4WEq64InEvnCw8jH2QTTmJbA5L5ZPVfKrbPGm4YWhPiy6wpbR4c0W1cwDz0MwWk76MwOM9IvVGLswtyIZf0kpDu8TjmT60bg6ZHvMe4hnG6z7SCXuwndzRV+svUA==
+cL9MfpYecefZCwEzk3/cbZRv8IuzfEBGiIFVKCtC6KaaZHfb1NNMdUlmvpToj79o3JGMqBp/VBRKGeSdI5S1dz30tqOqYOds6eaBD+koz4pZbLGobg9BtvgAuc4n1Xdu+QZWzATDxx0wHOCr4r8CeCg9Z///6hFs7kChdGYsLDl6Zk3mn97EB2xUHYayqeDpzWRjCgQLR8C3JZb5Y4RsWhcwYZ4uxW6UR89W0/JiXgkg0DeG0mg/wafZmFZgFVErDxirFXZklHQi5C4zNPQCQPOrMBNxRiuN49DWTfCFPZiEtAoyJlgRYRcyXK/2QEut5MBNLp72czpntc/FYVdiRA==
