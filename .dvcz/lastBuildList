@@ -7,43 +7,43 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xloverlay_py v0.0.3
-2017-07-03 19:43:51
+xloverlay_py v0.0.4
+2017-08-06 22:14:45
 # BEGIN CONTENT #
 xloverlay_py
  .dvcz
-  builds e459154bfdb7b454813d5d796a6de7a51f7ad517
+  builds 22cdc4e8de543a92dba39ae1bcbfcb095ba97727
   copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList c9f66d99d246175c93e37abb0df51b604960a8e3
+  lastBuildList 0815e74debb6a62b44a794055b59aa7280522b31
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg a6303b4c934bc9e03b0cee0472df45a6ff823581
+  projCfg 11bd5cef33669bf4e2181a98437af862a0b7a69d
   projCfg.local d714bae5cbe74faf76f6486d06fb713839ab67d8
-  version 73360f35db9690beafef9788c87d2c2573835bb0
+  version fbc99db5184e5e3c4d5e11533afabed69cbabcd9
  .gitignore 42ddd5953f4cb4a6c49a0f3710cc9247411c2402
  .gitignore.local e5ddc74d7265c3d7a43e1b8f9003877f0d4b6b90
- CHANGES 7d77e428820e966c9406b2f6b589f98937f29834
+ CHANGES 90de29b51cf115ed72a293a1abcbad7ff46889ae
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
- MANIFEST.in ab66c4ba9f7b7352eb828e32839a387bf990125b
+ MANIFEST.in 4adf906b2cd5a5e68a3d78a36d9c643627646b7e
  README.md 1d19c6a4b9e5de9546fdc0b0bca2b840a21d29df
  TODO 9b16875bbd1ccd1a13f395258ac038c1f1ed890f
  bkp2U 7bbe9198fba10d4e842b9b28ff9e9173a6bcdee6
  checkCoverage 85efbde38788f3df64a0949122ffed62ba3ff302
  countem f39af03590e49afc840f09c20d9b8991353eec90
- doPyLint ef38ec35ab858630bb875678e5e247acb055bc1d
+ doPyLint 31321ad99eb3b9ac0928a68c29a8b5b88c9472fb
  ghpDoc
   index.md 2df01d11ebee73d3640e788a51e78c32eade0669
  installit bf085d6a2a53e5d1af6938fd422712c59ff3030e
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py 8eb223bdb940811653609ded5e9550e930419b4b
+ setup.py 6d919b763fd0b35a646149492096557e7ff83193
  src
   xloverlay
-   __init__.py d2624665d104574de9cb8dda2e8d36469bdd2526
+   __init__.py 13abfc054a53052993f1e570348cb5a5964ac7ee
    datakeyed
    namekeyed
- styleit 77ee3d4981e9bc6c964a76ff370b26a042c17a8f
- test.all 16b2121c87b7da169aa0e2620fbd1a30ad0ab528
+ styleit e6410f3a7bf313ef4693bd528faa4864b51b7b71
+ test.all d9490f29f4226acdf54fb342bd820f595688a5dd
  tests
   test_basics.py cb496640a03fa9cb3264479aca26fc672eae71d2
 # END CONTENT #
 
-cL9MfpYecefZCwEzk3/cbZRv8IuzfEBGiIFVKCtC6KaaZHfb1NNMdUlmvpToj79o3JGMqBp/VBRKGeSdI5S1dz30tqOqYOds6eaBD+koz4pZbLGobg9BtvgAuc4n1Xdu+QZWzATDxx0wHOCr4r8CeCg9Z///6hFs7kChdGYsLDl6Zk3mn97EB2xUHYayqeDpzWRjCgQLR8C3JZb5Y4RsWhcwYZ4uxW6UR89W0/JiXgkg0DeG0mg/wafZmFZgFVErDxirFXZklHQi5C4zNPQCQPOrMBNxRiuN49DWTfCFPZiEtAoyJlgRYRcyXK/2QEut5MBNLp72czpntc/FYVdiRA==
+V5p82bFrfYt+w5OcYbJr5aYa35LW4lKOSBYmKKXxpLpsIT82c+AewciB5HCDquBcdJoAWp7e+qavnSwfNDnEWOGk1PigzJvjc6SGExiYMCydSBwdX6fbKv5lk1Ddqe4ocSm7rYLTpC4r6jPV2sBUhulnng0a14xpUWKxtsER1Ie8ZaUoTtKOXcnIudDM/dUTL9Dw5GCEBzv9oNDy73JFU3JytNcQgxaRDT6Nrn/iHcq9yGfjae51frc2Ai4uFV9UQzset3UF9U7vGLPVzzIumzj4UwtcuRtyFhogA3aOeNVV/r/VwVKqnSbM/p3qXyDfVLH8Ti7CJqnOo1i23gxEgA==

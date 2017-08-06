@@ -2,8 +2,8 @@
 project:xloverlay_py
 package:xloverlay
 mainlang:py
-version:0.0.2
-versionDate:2017-05-31
+version:0.0.3
+versionDate:2017-07-03
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
@@ -40,4 +40,5 @@ bash:std:test.all
 bash:std:doPyLint
 bash:std:checkCoverage
 bash:std:bkp2u
+py:std:setup.cfg
 py:std:setup.py
