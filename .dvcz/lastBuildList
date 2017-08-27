@@ -7,43 +7,50 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xloverlay_py v0.0.4
-2017-08-06 22:14:45
+xloverlay_py v0.0.5
+2017-08-27 23:39:20
 # BEGIN CONTENT #
 xloverlay_py
+ .cache
+  v
+   cache
+    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 22cdc4e8de543a92dba39ae1bcbfcb095ba97727
+  builds ae1e3b8abb073b4ee8b8d7c737e7c6dfe88baa81
   copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList 0815e74debb6a62b44a794055b59aa7280522b31
+  lastBuildList 6e0fe5f946ce0182fb36a1891968d47c907cf29d
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg 11bd5cef33669bf4e2181a98437af862a0b7a69d
+  projCfg 09b007d953e91a63c1989215931ba7fbe4906cfe
   projCfg.local d714bae5cbe74faf76f6486d06fb713839ab67d8
-  version fbc99db5184e5e3c4d5e11533afabed69cbabcd9
- .gitignore 42ddd5953f4cb4a6c49a0f3710cc9247411c2402
+  version 4ee7d2233bc93344152b12da4d4a5b68794bb3e4
+ .gitignore 3375b24a288582c80e6afecc7a0b9de5b8df0779
  .gitignore.local e5ddc74d7265c3d7a43e1b8f9003877f0d4b6b90
- CHANGES 90de29b51cf115ed72a293a1abcbad7ff46889ae
+ CHANGES f955caf5ca71accfadd169302e07b6d14aafb331
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
- MANIFEST.in 4adf906b2cd5a5e68a3d78a36d9c643627646b7e
+ MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 1d19c6a4b9e5de9546fdc0b0bca2b840a21d29df
  TODO 9b16875bbd1ccd1a13f395258ac038c1f1ed890f
  bkp2U 7bbe9198fba10d4e842b9b28ff9e9173a6bcdee6
  checkCoverage 85efbde38788f3df64a0949122ffed62ba3ff302
- countem f39af03590e49afc840f09c20d9b8991353eec90
+ countem 23f792843f4c9cc4ccdae40225fd0b8103818c62
  doPyLint 31321ad99eb3b9ac0928a68c29a8b5b88c9472fb
  ghpDoc
   index.md 2df01d11ebee73d3640e788a51e78c32eade0669
  installit bf085d6a2a53e5d1af6938fd422712c59ff3030e
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py 6d919b763fd0b35a646149492096557e7ff83193
+ requirements.txt 23720fd3292a9b88ff274c876d0a6b034edc009e
+ setup.py 1686873900d4d019817793d9e237f5d9da6e9ce6
  src
   xloverlay
-   __init__.py 13abfc054a53052993f1e570348cb5a5964ac7ee
+   __init__.py ae24daf3e9a7e30dc03ab7c66ce28575457ec15e
    datakeyed
    namekeyed
  styleit e6410f3a7bf313ef4693bd528faa4864b51b7b71
  test.all d9490f29f4226acdf54fb342bd820f595688a5dd
+ test_requirements.txt 786df7d8d898c7606930a9d0ecc338f795873e2a
  tests
-  test_basics.py cb496640a03fa9cb3264479aca26fc672eae71d2
+  test_basics.py 364fa2104f27f2706e27b3f7600a91edde48a3c2
+ tox.ini 59185d61ab1513409f43656857fc3c3923351a91
 # END CONTENT #
 
-V5p82bFrfYt+w5OcYbJr5aYa35LW4lKOSBYmKKXxpLpsIT82c+AewciB5HCDquBcdJoAWp7e+qavnSwfNDnEWOGk1PigzJvjc6SGExiYMCydSBwdX6fbKv5lk1Ddqe4ocSm7rYLTpC4r6jPV2sBUhulnng0a14xpUWKxtsER1Ie8ZaUoTtKOXcnIudDM/dUTL9Dw5GCEBzv9oNDy73JFU3JytNcQgxaRDT6Nrn/iHcq9yGfjae51frc2Ai4uFV9UQzset3UF9U7vGLPVzzIumzj4UwtcuRtyFhogA3aOeNVV/r/VwVKqnSbM/p3qXyDfVLH8Ti7CJqnOo1i23gxEgA==
+COdIezSztKjcsyFmtGZOZVyRtUiOm8iZY0IUKNCHAQD1FNWSim3W2uP006SHrPy1YgB/nfjoeQgTiu6HJjTQZ3lkKEDT39jCD/soNTc02/Nr1nDwQlrNUMkIgL2MaiOtEn+iJZh0WLjlVMIeR8RKLcXl5s7YZbE+nLttD4sI/wlL/PgM80yB/5eWQ7ODvx9n5ukT9I2gPBW9nfRsJv2M/XJfN1Otosic0XBy6j45U0QRYCYIP/nCjbih4jbBsx33NKkQTdBu4ZbagzPQX356kAqPvVkINAY9xd0+FLR6bC9kwWcnMAltiiIFzgvljM37rsWLhlHHn/6Gr4jvGrhhkA==

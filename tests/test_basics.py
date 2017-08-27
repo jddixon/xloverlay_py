@@ -3,13 +3,13 @@
 
 """ Currently just exercises test framework. """
 
-#import hashlib
-#import os
+# import hashlib
+# import os
 import time
 import unittest
 
 from rnglib import SimpleRNG
-#from xloverlay import *
+# from xloverlay import *
 
 
 class TestBasics(unittest.TestCase):
