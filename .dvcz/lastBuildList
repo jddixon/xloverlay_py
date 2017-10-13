@@ -7,25 +7,22 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xloverlay_py v0.0.5
-2017-08-27 23:39:20
+xloverlay_py v0.0.6
+2017-10-13 21:52:25
 # BEGIN CONTENT #
 xloverlay_py
- .cache
-  v
-   cache
-    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds ae1e3b8abb073b4ee8b8d7c737e7c6dfe88baa81
+  builds 976da33e9733c713e561cf873c5b8788d9b86b58
   copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList 6e0fe5f946ce0182fb36a1891968d47c907cf29d
+  lastBuildList adc5296c5ca9adb5eb4e3acabefd10ee2de75ed3
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg 09b007d953e91a63c1989215931ba7fbe4906cfe
   projCfg.local d714bae5cbe74faf76f6486d06fb713839ab67d8
-  version 4ee7d2233bc93344152b12da4d4a5b68794bb3e4
+  projConfig.toml 1e0dafc81568763bbf73cf0b4c2848538bbd460e
+  version 09db7b34c7d5593dd35a0e3eea412654dc98de68
  .gitignore 3375b24a288582c80e6afecc7a0b9de5b8df0779
  .gitignore.local e5ddc74d7265c3d7a43e1b8f9003877f0d4b6b90
- CHANGES f955caf5ca71accfadd169302e07b6d14aafb331
+ CHANGES f1030119df4d43948e4ddb28b219bd2658869084
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
  MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 1d19c6a4b9e5de9546fdc0b0bca2b840a21d29df
@@ -38,11 +35,11 @@ xloverlay_py
   index.md 2df01d11ebee73d3640e788a51e78c32eade0669
  installit bf085d6a2a53e5d1af6938fd422712c59ff3030e
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- requirements.txt 23720fd3292a9b88ff274c876d0a6b034edc009e
- setup.py 1686873900d4d019817793d9e237f5d9da6e9ce6
+ requirements.txt 942298710be186a9dff8d3c514e6b8778a1cadc7
+ setup.py ad12313054acf8296818fcadea92da9aad4d4981
  src
   xloverlay
-   __init__.py ae24daf3e9a7e30dc03ab7c66ce28575457ec15e
+   __init__.py 65d857a647710331f9539a5fd0d52e32b19c80ed
    datakeyed
    namekeyed
  styleit e6410f3a7bf313ef4693bd528faa4864b51b7b71
@@ -50,7 +47,7 @@ xloverlay_py
  test_requirements.txt 786df7d8d898c7606930a9d0ecc338f795873e2a
  tests
   test_basics.py 364fa2104f27f2706e27b3f7600a91edde48a3c2
- tox.ini 59185d61ab1513409f43656857fc3c3923351a91
+ tox.ini 2b2e28f2c16891ee2bbbac1ae74959c0d1f97c0a
 # END CONTENT #
 
-COdIezSztKjcsyFmtGZOZVyRtUiOm8iZY0IUKNCHAQD1FNWSim3W2uP006SHrPy1YgB/nfjoeQgTiu6HJjTQZ3lkKEDT39jCD/soNTc02/Nr1nDwQlrNUMkIgL2MaiOtEn+iJZh0WLjlVMIeR8RKLcXl5s7YZbE+nLttD4sI/wlL/PgM80yB/5eWQ7ODvx9n5ukT9I2gPBW9nfRsJv2M/XJfN1Otosic0XBy6j45U0QRYCYIP/nCjbih4jbBsx33NKkQTdBu4ZbagzPQX356kAqPvVkINAY9xd0+FLR6bC9kwWcnMAltiiIFzgvljM37rsWLhlHHn/6Gr4jvGrhhkA==
+gxMsl4k3OYmuvjS9Ha+VpKarJUXPP26n5FaiEk57A5rogG3XoCF2E7zA2CB29B945rfUXRN6Lk6rf3ZWR7+MJOXMNVqhw2sDCLqayAfiUta5DepheAE5RBWO+3mhTIGLxDRUWrA108szizoS0YJDAqUTx6rksfzWEhW9s50dm3JzP+H1P0owXRfSPc13d35b/+WoiC5x5M5Lsd6QAMpVAewE2/+4qNb0e8jtYinYNPJfmHIWIeCdLLgn6MwbEHU1K/XOzIYj2zA3UsALKE5/LMmq8PSt8K+HVbUhQ09K4XIzblWdU4POzQ0+Don3KD6KLnrid7iNOmmBmJ9a7pTrRg==
