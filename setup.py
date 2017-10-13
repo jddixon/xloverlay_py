@@ -12,7 +12,7 @@ if exists('README.md'):
         long_desc = file.read()
 
 setup(name='xloverlay_py',
-      version='0.0.5',
+      version='0.0.6',
       author='Jim Dixon',
       author_email='jddixon@gmail.com',
       long_description=long_desc,
@@ -22,6 +22,7 @@ setup(name='xloverlay_py',
       include_package_data=False,
       zip_safe=False,
       scripts=[],
+      ext_modules=[],
       description='overlay layer for xlattice_py',
       url='https://jddixon.github.io/xloverlay_py',
       classifiers=[

@@ -1,2 +1,3 @@
 # xloverlay_py/requirements.txt
+setuptools
 
