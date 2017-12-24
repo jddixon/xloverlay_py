@@ -1,5 +1,8 @@
 py/xloverlay_py/CHANGES
 
+v0.0.7
+    2017-12-24
+        * pylinting; edit config files                              SLOC  450
 v0.0.6
     2017-10-13
         * add .dvcz/projConfig.toml                                 SLOC  455
@@ -18,6 +21,7 @@ v0.0.2
 v0.0.1
     2017-02-26
         * initial commit                                            SLOC  369
+
 
 
 

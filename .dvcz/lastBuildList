@@ -7,22 +7,19 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xloverlay_py v0.0.6
-2017-10-13 21:52:25
+xloverlay_py
+2017-12-24 23:30:33
 # BEGIN CONTENT #
 xloverlay_py
  .dvcz
-  builds 976da33e9733c713e561cf873c5b8788d9b86b58
-  copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList adc5296c5ca9adb5eb4e3acabefd10ee2de75ed3
-  license 5977a55c75bb4612004451a56b0b4c22d9d3311d
+  builds 1b82d8ab936272bf457d2c7611c1df79d76c511a
+  lastBuildList 799340d6294b375b5ca126363f195d3e7e591eba
   projCfg 09b007d953e91a63c1989215931ba7fbe4906cfe
   projCfg.local d714bae5cbe74faf76f6486d06fb713839ab67d8
-  projConfig.toml 1e0dafc81568763bbf73cf0b4c2848538bbd460e
-  version 09db7b34c7d5593dd35a0e3eea412654dc98de68
+  projConfig.toml 945917373f85319ea0efc9db7ac381b653bbda67
  .gitignore 3375b24a288582c80e6afecc7a0b9de5b8df0779
  .gitignore.local e5ddc74d7265c3d7a43e1b8f9003877f0d4b6b90
- CHANGES f1030119df4d43948e4ddb28b219bd2658869084
+ CHANGES f933b94ad7e84c1b0bf988f3e16e930a813adeb3
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
  MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 1d19c6a4b9e5de9546fdc0b0bca2b840a21d29df
@@ -36,10 +33,10 @@ xloverlay_py
  installit bf085d6a2a53e5d1af6938fd422712c59ff3030e
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
  requirements.txt 942298710be186a9dff8d3c514e6b8778a1cadc7
- setup.py ad12313054acf8296818fcadea92da9aad4d4981
+ setup.py ce057e4ecb57e02fcbfff681c31111ddb65072be
  src
   xloverlay
-   __init__.py 65d857a647710331f9539a5fd0d52e32b19c80ed
+   __init__.py ef1cec824016acf1531904815d528cae1b5a96eb
    datakeyed
    namekeyed
  styleit e6410f3a7bf313ef4693bd528faa4864b51b7b71
@@ -50,4 +47,4 @@ xloverlay_py
  tox.ini 2b2e28f2c16891ee2bbbac1ae74959c0d1f97c0a
 # END CONTENT #
 
-gxMsl4k3OYmuvjS9Ha+VpKarJUXPP26n5FaiEk57A5rogG3XoCF2E7zA2CB29B945rfUXRN6Lk6rf3ZWR7+MJOXMNVqhw2sDCLqayAfiUta5DepheAE5RBWO+3mhTIGLxDRUWrA108szizoS0YJDAqUTx6rksfzWEhW9s50dm3JzP+H1P0owXRfSPc13d35b/+WoiC5x5M5Lsd6QAMpVAewE2/+4qNb0e8jtYinYNPJfmHIWIeCdLLgn6MwbEHU1K/XOzIYj2zA3UsALKE5/LMmq8PSt8K+HVbUhQ09K4XIzblWdU4POzQ0+Don3KD6KLnrid7iNOmmBmJ9a7pTrRg==
+TraWYF2WHhb1HtcmK/3Spz55Zq+sdDXzI9U42tP9X+ZyxAP8ZjjHHtgH501WT9ao98USGyA2ql2ogVjnmhnG4IJU9Hu6O0kodqy2T1RVu38q4tDPVFNXx4SSFfU2iuEIFPH7aw5locksKebZXCidVpArHyRciIrFfbVnSSd8U5L3WyjCNqm7Nz8f8eZnM7rF3jY4ZNNrT/iFkLRQ2WU93sU/7OEWwDBUdx92ABohOfnBNSThZKU8WdWcYe/0sEak9+vBsfKlAzlMdS1VjqmNTAw+Dnu59RSp1X+G68hyTxnKMz9Q9M5rR+ZURdL0wIptELtSWwsRgdLyQvd3bHtrEg==
