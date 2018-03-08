@@ -2,8 +2,8 @@
 
 """ Overlay library for python XLattice packages. """
 
-__version__ = '0.0.7'
-__version_date__ = '2017-12-24'
+__version__ = '0.0.8'
+__version_date__ = '2018-03-08'
 
 __all__ = ['__version__', '__version_date__', 'XLOverlayError', ]
 

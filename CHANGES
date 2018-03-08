@@ -1,5 +1,8 @@
 py/xloverlay_py/CHANGES
 
+v0.0.8
+    2018-03-08
+        * edit etup.py and tox config files                         SLOC  444
 v0.0.7
     2017-12-24
         * pylinting; edit config files                              SLOC  450
@@ -21,6 +24,7 @@ v0.0.2
 v0.0.1
     2017-02-26
         * initial commit                                            SLOC  369
+
 
 
 
